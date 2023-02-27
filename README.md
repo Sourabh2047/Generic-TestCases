@@ -1,4 +1,4 @@
-## ManualTesting
+## Manual Testing
 This repository contains the General Test Cases for Manual Testing on the Webpage. It also has Test cases related to API Testing. Templates related to Test Plan, Sample TEST Cases, BUG Report and Test Case Format. 
 
 ## What is it all about ?
